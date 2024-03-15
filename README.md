@@ -5,7 +5,7 @@ Welcome 🌱
 
 
 -  I’m currently working on becaming a software developer.👩‍💻
--  I’m currently learning Python and gaining experience.🤖
+-  I’m learning Python and gaining experience.🤖
 
 - 💬 Ask me about anything.
 - 📫 How to reach me: https://www.linkedin.com/in/veronika-wells/
